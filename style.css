@@ -17,15 +17,18 @@ body{
     float: right;
     vertical-align: middle;
     flex-direction: column;
-    margin: 12rem 11rem;
+    margin: 15rem 15rem;
 }
 #generate-sudoku{
+    margin-top: 100px;
     display:block;
+    padding: 13px;
 }
 
 
 #solve{
     display:block;
+    padding: 13px;
     margin-left: 2rem;
 }
 

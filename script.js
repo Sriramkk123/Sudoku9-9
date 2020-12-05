@@ -142,7 +142,6 @@ function solveSudokuHelper(board,r,c){
         }    
     }
     return false;
-    //finish your code here
 }
 
 function solveSudoku(board) {
