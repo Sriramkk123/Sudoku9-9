@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/Sriramkk123/Sudoku9-9#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
